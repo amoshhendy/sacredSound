@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="lib/css/bootstrap.css">
     <link rel="stylesheet" href="lib/css/style.css">
 </head>
 <body>
@@ -35,6 +36,8 @@
    <h2>Main Description</h2>
    <p>Roll on the floor purring your whiskers off intrigued by the shower burrow under covers, and play time, rub face on everything, intently sniff hand, or pelt around the house and up and down stairs chasing phantoms. Attack feet. Damn that dog shake treat bag under the bed drink water out of the faucet for lick butt love to play with owner's hair tie. Swat at dog give attitude.</p>
 </div>
+
+<script type="text/javascript" src="lib/js/script.js"></script>
 
 </body>
 <h1> Yo Dawg! </h1>
