@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="lib/css/style.css">
 </head>
 <body>
-  <body>
 <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -38,8 +37,7 @@
 </div>
 
 <script type="text/javascript" src="lib/js/script.js"></script>
+</body>
 
-</body>
-<h1> Yo Dawg! </h1>
-</body>
+
 </html>
