@@ -28,7 +28,7 @@
     </nav>
 
 <div class="image">
-   <h1 class="heading">Main Heading</h1>
+   <h1 class="heading">Maria</h1>
    <p><button class="btn btn-large">Big Button</button></p>
 </div>
 <div class="about">
